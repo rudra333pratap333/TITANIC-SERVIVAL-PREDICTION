@@ -53,9 +53,9 @@ Below is a brief information about each columns of the dataset:
 12)Embarked: Port from where the particular passenger was embarked/boarded.
 
 Contents:
-1)Import Necessary Libraries <br / >
-2)Read In and Explore the Historic Data <br / >
-3)Data Analysis <br / >
-4)Data Visualization <br / >
-5)Cleaning Data <br / >
-6)Finally Calclate the Accuracy of the Model <br / >
+1)Import Necessary Libraries <br />
+2)Read In and Explore the Historic Data <br />
+3)Data Analysis <br />
+4)Data Visualization <br />
+5)Cleaning Data <br />
+6)Finally Calclate the Accuracy of the Model <br />
